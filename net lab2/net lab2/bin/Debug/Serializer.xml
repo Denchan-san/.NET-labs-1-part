@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Commandants>
+    <Id>1</Id>
+    <Name>John</Name>
+    <Age>40</Age>
+    <Experience>5</Experience>
+    <Gender>Male</Gender>
+  </Commandants>
+  <Commandants>
+    <Id>2</Id>
+    <Name>Alice</Name>
+    <Age>35</Age>
+    <Experience>8</Experience>
+    <Gender>Female</Gender>
+  </Commandants>
+  <Studnets>
+    <Id>1</Id>
+    <Name>John</Name>
+    <Faculty>FIOT</Faculty>
+    <Cathedra>IPI</Cathedra>
+    <Course>2</Course>
+    <Gender>Male</Gender>
+    <YearOfBirth>2005</YearOfBirth>
+  </Studnets>
+  <Studnets>
+    <Id>2</Id>
+    <Name>Olya</Name>
+    <Faculty>FIOT</Faculty>
+    <Cathedra>OT</Cathedra>
+    <Course>4</Course>
+    <Gender>Female</Gender>
+    <YearOfBirth>2001</YearOfBirth>
+  </Studnets>
+  <Hostels>
+    <Id>1</Id>
+    <Address>123 Main St</Address>
+    <AmountOfRooms>50</AmountOfRooms>
+    <CommandantId>1</CommandantId>
+  </Hostels>
+  <Hostels>
+    <Id>2</Id>
+    <Address>456 Elm St</Address>
+    <AmountOfRooms>40</AmountOfRooms>
+    <CommandantId>2</CommandantId>
+  </Hostels>
+  <Settlements>
+    <Id>1</Id>
+    <StudentId>1</StudentId>
+    <HostelId>1</HostelId>
+    <CheсkInTime>2024-04-30T15:20:25.7168673+03:00</CheсkInTime>
+    <CheсkOutTime>2024-05-30T15:20:25.7183742+03:00</CheсkOutTime>
+  </Settlements>
+  <Settlements>
+    <Id>2</Id>
+    <StudentId>2</StudentId>
+    <HostelId>2</HostelId>
+    <CheсkInTime>2024-04-30T15:20:25.7183742+03:00</CheсkInTime>
+    <CheсkOutTime>2024-06-30T15:20:25.7183742+03:00</CheсkOutTime>
+  </Settlements>
+</Data>

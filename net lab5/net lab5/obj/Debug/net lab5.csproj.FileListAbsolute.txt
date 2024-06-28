@@ -1,0 +1,7 @@
+C:\programming sandbox\net lab5\net lab5\bin\Debug\net lab5.exe.config
+C:\programming sandbox\net lab5\net lab5\bin\Debug\net lab5.exe
+C:\programming sandbox\net lab5\net lab5\bin\Debug\net lab5.pdb
+C:\programming sandbox\net lab5\net lab5\obj\Debug\net lab5.csproj.AssemblyReference.cache
+C:\programming sandbox\net lab5\net lab5\obj\Debug\net lab5.csproj.CoreCompileInputs.cache
+C:\programming sandbox\net lab5\net lab5\obj\Debug\net lab5.exe
+C:\programming sandbox\net lab5\net lab5\obj\Debug\net lab5.pdb

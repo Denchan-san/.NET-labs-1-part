@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "Name": "Joe",
+    "Faculty": "FICT",
+    "Cathedra": "IPI",
+    "Course": 1,
+    "Gender": "Male",
+    "YearOfBirth": 2006
+  },
+  {
+    "Id": 2,
+    "Name": "Nadiya",
+    "Faculty": "FICT",
+    "Cathedra": "IPI",
+    "Course": 1,
+    "Gender": "Female",
+    "YearOfBirth": 2006
+  },
+  {
+    "Id": 3,
+    "Name": "Alexandr",
+    "Faculty": "FICT",
+    "Cathedra": "IPI",
+    "Course": 2,
+    "Gender": "Male",
+    "YearOfBirth": 2005
+  },
+  {
+    "Id": 4,
+    "Name": "Myhailo",
+    "Faculty": "FICT",
+    "Cathedra": "IPI",
+    "Course": 2,
+    "Gender": "Male",
+    "YearOfBirth": 2004
+  },
+  {
+    "Id": 5,
+    "Name": "Oksana",
+    "Faculty": "FICT",
+    "Cathedra": "OT",
+    "Course": 3,
+    "Gender": "Female",
+    "YearOfBirth": 2002
+  }
+]

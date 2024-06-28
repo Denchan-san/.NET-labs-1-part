@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Address": "Boholubova",
+    "AmountOfRooms": 200,
+    "CommandantId": 5
+  },
+  {
+    "Id": 2,
+    "Address": "Retardova",
+    "AmountOfRooms": 250,
+    "CommandantId": 4
+  },
+  {
+    "Id": 3,
+    "Address": "Politehnichna",
+    "AmountOfRooms": 140,
+    "CommandantId": 3
+  },
+  {
+    "Id": 4,
+    "Address": "Knushna",
+    "AmountOfRooms": 600,
+    "CommandantId": 2
+  },
+  {
+    "Id": 5,
+    "Address": "Simonova",
+    "AmountOfRooms": 800,
+    "CommandantId": 1
+  }
+]

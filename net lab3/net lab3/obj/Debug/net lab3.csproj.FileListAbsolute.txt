@@ -1,0 +1,28 @@
+C:\programming sandbox\net lab3\net lab3\bin\Debug\net lab3.exe.config
+C:\programming sandbox\net lab3\net lab3\bin\Debug\net lab3.exe
+C:\programming sandbox\net lab3\net lab3\bin\Debug\net lab3.pdb
+C:\programming sandbox\net lab3\net lab3\obj\Debug\net lab3.csproj.AssemblyReference.cache
+C:\programming sandbox\net lab3\net lab3\obj\Debug\net lab3.csproj.CoreCompileInputs.cache
+C:\programming sandbox\net lab3\net lab3\obj\Debug\net lab3.exe
+C:\programming sandbox\net lab3\net lab3\obj\Debug\net lab3.pdb
+C:\programming sandbox\net lab3\net lab3\bin\Debug\Newtonsoft.Json.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\Newtonsoft.Json.xml
+C:\programming sandbox\net lab3\net lab3\obj\Debug\net lab3.csproj.Up2Date
+C:\programming sandbox\net lab3\net lab3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Buffers.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Memory.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Numerics.Vectors.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Text.Encodings.Web.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Text.Json.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.ValueTuple.dll
+C:\programming sandbox\net lab3\net lab3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Buffers.xml
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Memory.xml
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Numerics.Vectors.xml
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Text.Encodings.Web.xml
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Text.Json.xml
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\programming sandbox\net lab3\net lab3\bin\Debug\System.ValueTuple.xml

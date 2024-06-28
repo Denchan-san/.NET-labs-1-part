@@ -1,0 +1,7 @@
+C:\programming sandbox\net lab1\net lab1\bin\Debug\net lab1.exe.config
+C:\programming sandbox\net lab1\net lab1\bin\Debug\net lab1.exe
+C:\programming sandbox\net lab1\net lab1\bin\Debug\net lab1.pdb
+C:\programming sandbox\net lab1\net lab1\obj\Debug\net lab1.csproj.AssemblyReference.cache
+C:\programming sandbox\net lab1\net lab1\obj\Debug\net lab1.csproj.CoreCompileInputs.cache
+C:\programming sandbox\net lab1\net lab1\obj\Debug\net lab1.exe
+C:\programming sandbox\net lab1\net lab1\obj\Debug\net lab1.pdb

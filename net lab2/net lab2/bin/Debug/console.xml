@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+	<Commandants>
+		<Commandant>
+			<Id>1</Id>
+			<Name>213</Name>
+			<Age>123</Age>
+			<Experience>123</Experience>
+			<Gender>123</Gender>
+		</Commandant>
+	</Commandants>
+	<Hostels>
+		<Hostel>
+			<Id>1</Id>
+			<Address>123</Address>
+			<AmountOfRooms>123</AmountOfRooms>
+			<CommandantId>123</CommandantId>
+		</Hostel>
+	</Hostels>
+	<Settlements>
+		<Settlement>
+			<Id>1</Id>
+			<StudentId>123</StudentId>
+			<HostelId>123</HostelId>
+			<CheсkInTime>4/30/2024 3:19:03 PM</CheсkInTime>
+			<CheсkOutTime>6/30/2024 3:19:05 PM</CheсkOutTime>
+		</Settlement>
+	</Settlements>
+	<Students>
+		<Student>
+			<Id>1</Id>
+			<Name>123</Name>
+			<Faculty>123</Faculty>
+			<Cathedra>123</Cathedra>
+			<Course>123</Course>
+			<Gender>123</Gender>
+			<YearOfBirth>2004</YearOfBirth>
+		</Student>
+	</Students>
+</Data>
